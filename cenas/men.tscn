@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://d2ua7h3n3tq60"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 1149.0
+offset_bottom = 650.0
+color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 311.0
+offset_top = 311.0
+offset_right = 869.0
+offset_bottom = 356.0
+theme_override_font_sizes/font_size = 30
+text = "parabens você conseguiu traçar a pata"
